@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: sans-serif;
+}
+
+.profile-img{
+  width: 100%;
+  max-width: 70px;
+}
+#card{
+  border-top: 1px solid #ebebeb;
+  margin-top : 10px;
+  margin-left: 10px;
+  width: 70vw;
+  padding-top: 10px;
+}
+
+.header-con{
+  margin: 10px;
+}
+.padding-0{
+  padding:0px;
+}
+.header-main{
+  margin: 0px 10px;
+}
+.header-handle{
+  color: #999999;
+}
